@@ -10,7 +10,7 @@ A pixel-perfect, fully responsive clone of the [Razorpay](https://razorpay.com) 
 
 ## 🎬 Demo
 
-> `![Demo](./assets/Demo.gif)`
+![Demo](./assets/Demo.gif)
 
 ---
 
